@@ -1,6 +1,6 @@
 import React from 'react';
 import { ReactiveBase, NumberBox, DateRange, RangeSlider, ResultCard } from '@appbaseio/reactivesearch';
-
+import './App.css';
 
 export default () => (
     <div className="container">
